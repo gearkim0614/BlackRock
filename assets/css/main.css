@@ -1422,7 +1422,7 @@ input, select, textarea {
 	}
 
 		table tbody tr {
-			border: solid 1px rgba(255, 255, 255, 0.25);
+			border: solid 2px rgba(255, 255, 255, 0.25);
 			border-left: 0;
 			border-right: 0;
 		}
