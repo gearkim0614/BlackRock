@@ -799,7 +799,6 @@ if(e6_btn){
 	}, false)
 }
 
-
 function show_elem(element){
 	element.hidden = element.hidden ? false : true;
 }
